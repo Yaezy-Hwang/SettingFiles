@@ -8,7 +8,7 @@
   	<!-- 다운로드 관련 설정 파일 -->
 	<!-- 프로젝트 명 우클릭 -> Configure -> Convert to Maven Project 클릭시 생성됨 -->
   	<properties>
-		<org.springframework-version>4.3.3.RELEASE</org.springframework-version>
+		<org.springframework-version>5.2.20.RELEASE</org.springframework-version>
 	</properties>
 
 	<dependencies>
